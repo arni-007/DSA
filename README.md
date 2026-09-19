@@ -26,8 +26,13 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
