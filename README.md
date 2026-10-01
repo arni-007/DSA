@@ -31,10 +31,15 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
