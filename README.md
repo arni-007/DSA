@@ -37,9 +37,15 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
