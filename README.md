@@ -44,8 +44,10 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
