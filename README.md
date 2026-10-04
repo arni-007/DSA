@@ -25,6 +25,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
@@ -50,4 +51,12 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
