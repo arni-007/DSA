@@ -40,6 +40,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 ## Linked List
 |  |
 | ------- |
@@ -55,8 +56,17 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
