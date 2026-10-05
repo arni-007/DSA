@@ -40,6 +40,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/arni-007/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 ## Linked List
