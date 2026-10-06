@@ -43,6 +43,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0007-reverse-integer](https://github.com/arni-007/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/arni-007/DSA/tree/master/0069-sqrtx) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +73,12 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arni-007/DSA/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/arni-007/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
