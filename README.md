@@ -51,6 +51,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/arni-007/DSA/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/arni-007/DSA/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
