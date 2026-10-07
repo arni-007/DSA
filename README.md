@@ -35,6 +35,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0019-remove-nth-node-from-end-of-list](https://github.com/arni-007/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/arni-007/DSA/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
@@ -65,6 +66,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 ## Trie
 |  |
@@ -94,4 +96,20 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
