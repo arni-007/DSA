@@ -46,6 +46,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arni-007/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
@@ -112,4 +113,12 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
