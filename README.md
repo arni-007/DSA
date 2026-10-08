@@ -29,6 +29,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/arni-007/DSA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/arni-007/DSA/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
