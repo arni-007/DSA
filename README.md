@@ -124,4 +124,16 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
