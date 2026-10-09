@@ -29,6 +29,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0026-remove-duplicates-from-sorted-array](https://github.com/arni-007/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/arni-007/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/arni-007/DSA/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -38,6 +39,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0027-remove-element](https://github.com/arni-007/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/arni-007/DSA/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -136,4 +138,8 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
