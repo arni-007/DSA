@@ -41,6 +41,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/arni-007/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/arni-007/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -75,6 +76,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/arni-007/DSA/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/arni-007/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
