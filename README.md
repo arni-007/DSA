@@ -136,6 +136,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/arni-007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -152,4 +153,16 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
