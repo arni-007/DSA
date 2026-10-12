@@ -43,6 +43,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0088-merge-sorted-array](https://github.com/arni-007/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/arni-007/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/arni-007/DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -64,12 +65,14 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0092-reverse-linked-list-ii](https://github.com/arni-007/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/arni-007/DSA/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/arni-007/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/arni-007/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/arni-007/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/arni-007/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/arni-007/DSA/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -139,6 +142,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/arni-007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/arni-007/DSA/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
