@@ -53,6 +53,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/arni-007/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/arni-007/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/arni-007/DSA/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
@@ -73,6 +74,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | [0021-merge-two-sorted-lists](https://github.com/arni-007/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/arni-007/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/arni-007/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/arni-007/DSA/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
