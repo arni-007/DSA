@@ -80,6 +80,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 | ------- |
 | [0014-longest-common-prefix](https://github.com/arni-007/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/arni-007/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/arni-007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/arni-007/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/arni-007/DSA/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/arni-007/DSA/tree/master/0389-find-the-difference) |
@@ -135,6 +136,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arni-007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/arni-007/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/arni-007/DSA/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -144,6 +146,7 @@ The solutions are continuously updated as I learn new concepts and solve additio
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/arni-007/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/arni-007/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/arni-007/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/arni-007/DSA/tree/master/0232-implement-queue-using-stacks) |
@@ -182,4 +185,8 @@ The solutions are continuously updated as I learn new concepts and solve additio
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/arni-007/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/arni-007/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
